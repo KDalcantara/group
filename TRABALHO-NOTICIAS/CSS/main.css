@@ -1,0 +1,49 @@
+/*
+.box1{
+    height: 352px;
+    margin: 20px 60px;
+    padding: 5px;
+    width: 250px;
+}
+
+.box2{
+    height: 350px;
+    margin: 20px 60px;
+    padding: 5px;
+    width: 250px;
+}
+
+.caixa2{
+    float: left;
+}
+.box3{
+    
+    height: 250px;
+    margin: 10px;
+    padding: 5px;
+    width: 250px;
+}
+
+.caixa3{
+    float: right;
+}
+.box4{
+    height: 250px;
+    margin: 10px;
+    padding: 5px;
+    width: 250px;
+}
+
+.textoBox1 p{
+    float: right;
+}
+*/
+
+.box1 img{
+    float: left;
+}
+
+.caixa1{
+    width: 600px;
+    margin: auto;
+}
